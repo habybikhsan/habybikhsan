@@ -22,6 +22,6 @@
 </p>
 
 ### Reach me on
-- <a href="linkedin.com/in/habyb-nur-ikhsan-205847103/">LinkedIn</a>
+- <a href="https://linkedin.com/in/habyb-nur-ikhsan-205847103/">LinkedIn</a>
 - nhabyb@gmail.com
-- <a href="[https://twitter.com/habybikhsan">Twitter</a>
+- <a href="https://twitter.com/habybikhsan">Twitter</a>
